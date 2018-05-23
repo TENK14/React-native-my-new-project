@@ -499,5 +499,4 @@ const styles = StyleSheet.create({
 // skip this line if using Create React Native App
 AppRegistry.registerComponent('AwesomeProject', () => Touchables);
 /**/
-// Example 12: Handling Touches:
-// Example 12: Handling Touches:
+// Example 14: https://facebook.github.io/react-native/docs/using-a-scrollview.html
